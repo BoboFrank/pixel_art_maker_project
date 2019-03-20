@@ -1,0 +1,22 @@
+{
+  "name": "pixel_art_maker_project",
+  "version": "1.0.0",
+  "description": "* [Instructions](#instructions)\r * [Contributing](#contributing)",
+  "main": "designs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoboFrank/pixel_art_maker_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoboFrank/pixel_art_maker_project/issues"
+  },
+  "homepage": "https://github.com/BoboFrank/pixel_art_maker_project#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
