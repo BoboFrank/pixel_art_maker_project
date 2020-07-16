@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/BoboFrank/pixel_art_maker_project#readme",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.19"
   }
 }
